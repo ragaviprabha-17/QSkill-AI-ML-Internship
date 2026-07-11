@@ -1,18 +1,26 @@
-# QSkill AI/ML Internship
+# QSkill AI/ML Internship Projects
 
-This repository contains two machine learning projects completed during the QSkill AI/ML Internship.
+This repository contains three machine learning projects completed during the QSkill AI/ML Internship.
 
 ## Projects
 
-### Iris Flower Classification
+### 1. Iris Flower Classification
 - Algorithm: Logistic Regression
 - Accuracy: 100%
+- Objective: Classify iris flowers into Setosa, Versicolor, and Virginica species.
 
-### Spam Mail Detector
+### 2. Spam Mail Detector
 - Algorithm: Multinomial Naive Bayes
 - Accuracy: 96%
+- Objective: Detect whether an email or SMS is Spam or Ham.
+
+### 3. House Price Prediction
+- Algorithm: Linear Regression
+- R² Score: 0.58 (approximately)
+- Objective: Predict house prices using the California Housing Dataset.
 
 ## Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -20,4 +28,6 @@ This repository contains two machine learning projects completed during the QSki
 - Seaborn
 - Scikit-learn
 
-Author: Ragavi Prabha
+## Author
+
+**Ragavi Prabha**
